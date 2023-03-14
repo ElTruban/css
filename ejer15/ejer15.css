@@ -1,0 +1,12 @@
+div {
+    border: 1px solid black;
+    
+    padding: 0px 5px;
+    margin: auto;
+    width: 500px;
+}
+.azul {
+    height: 100px;
+    width: 500px;
+    background-color: rgba(0, 255, 255, 0.479);;
+}

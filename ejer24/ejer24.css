@@ -1,0 +1,11 @@
+.uno{
+    background-color: grey;
+height: 400px;
+
+}
+.dos{
+    background-color: lightgray;
+    position: fixed;
+    top: 30px;
+    left: 1px;
+}

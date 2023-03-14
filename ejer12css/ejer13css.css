@@ -1,0 +1,27 @@
+.uno{
+    border: solid 3px red;
+}
+.dos{
+    border: solid 2px blue;
+}
+.tres{
+    border: solid 1px yellow;
+}
+.cuatro{
+    border-top: dotted 4px red;
+    border-bottom: dotted 4px blue;
+    border-left: dotted 4px yellow;
+    border-right: dotted 4px green;
+}
+.cinco{
+    border: double 15px black ;
+}
+.seis{
+    border: double 4px black ;
+}
+.siete{
+    border-top: solid 1px black;
+    border-right: solid 5px black;
+    border-left: solid 10px black;
+    border-bottom: solid 6px black;
+}

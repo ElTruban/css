@@ -1,0 +1,26 @@
+div{
+    margin: 20px;
+}
+
+.uno {
+    background-color: lightblue;
+    border: 3px solid black;
+    background-repeat: no-repeat; 
+    background-position: right;
+    background-size: 50px;
+}
+
+.dos {background-image: linear-gradient(blue, red, lightgreen);
+    border: 3px solid black;
+    background-position: left;
+    background-size: 50px;
+    position: absolute;
+    top: 25px;
+    left: 150px;
+}
+.tres {
+    background-image: radial-gradient(red, yellow, green);
+    background-size: contain;
+    border: 3px solid black;
+    background-size: 50px;
+}

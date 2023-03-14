@@ -1,0 +1,38 @@
+html {background-color:grey; /*en caso de no soportar el gradiente*/
+    background-image:radial-gradient(ellipse, red 15%, orange 35%, yellow 50%, green 65%, blue 85%, purple);
+}
+
+.uno {
+    background-color: blue;
+    border: 5px solid black;
+    border-radius: 50px;
+    background-image: url(navi.png);
+    background-repeat: no-repeat; 
+    background-position: right;
+    background-size: 80px;
+}
+
+.dos {
+    background-color: black;
+    color: white;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-image: url(navi.png);
+    background-repeat: no-repeat; 
+    background-position: left;
+    background-size: 80px;
+}
+
+.tres {
+    background-color: grey;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-image: url(navi.png);
+    background-repeat:repeat; 
+    background-position: fixed;
+    background-size: 80px;
+}
+
+div{
+    margin: 30px;
+}

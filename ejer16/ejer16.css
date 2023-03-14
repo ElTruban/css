@@ -1,0 +1,27 @@
+.uno {
+    background-color: antiquewhite;
+    font-style: italic;
+    margin: 0;
+    }
+    .dos {
+    background-color: yellow;
+    font-variant: small-caps;
+    font-size: 150%;
+    margin: 0;
+    }
+    .tres {
+    background-color: rgb(255, 202, 122);
+    font-size: 150%;
+    letter-spacing: 3px;
+    margin: 0;
+    }
+    
+    .cuatro {
+    background-color: rgb(211, 180, 240);
+    font-size: 75%;
+    word-spacing: 20px;
+    margin: 0;
+    }
+    .subrayar {
+        text-decoration: underline;
+    }

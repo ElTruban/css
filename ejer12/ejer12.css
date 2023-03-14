@@ -1,0 +1,17 @@
+.uno{
+    border: 1px solid rgb(0, 0, 0);
+    background-image: url(navi.png);
+    background-size: auto;
+    height: 300px;
+    padding-top: 100px;
+    padding-left: 50px;
+
+}
+.dos{
+    border: 1px solid black;
+    background-image: url(navi.png);
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+    
+    height: 300px;
+}
